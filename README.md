@@ -6,4 +6,4 @@ It includes
 3. Adding Test Cases with pytest <br/>
 4. Code Coverage with pytest-cov <br/>
 5. Connecting with CircleCI and writing config.yaml <br/>
-6. Making changes and cheking for updates on CircleCI
+6. Making changes and checking for updates on CircleCI
